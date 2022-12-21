@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @AwesomenessReborn
-- 👀 I’m interested in Computer Hardware parts and working with camera features. 
-- 🌱 I’m currently learning java programming. 
-- 💞️ I’m looking to collaborate on maybe some python vision project? Help create a bot?
-- 📫 How to reach me: this platform or hareee234@gmail.com
+- 👀 I like computer parts. 
+- 🌱 Taking a look at JS projects at the moment. 
+- 💞️ Maybe exploring new websites to build? Fancy animations? 
+- 📫 How to reach me: literally this platform. 
+
+*I code while listening to music, check out what I listen too*
 
 <!---
 AwesomenessReborn/AwesomenessReborn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
