@@ -2,7 +2,7 @@
 - 👀 I like computer parts. 
 - 🌱 Taking a look at JS projects at the moment. 
 - 💞️ Maybe exploring new websites to build? Fancy animations? 
-- 📫 How to reach me: literally this platform. 
+- 📫 How to reach me: most of my contacts are within my website -- [here](https://awesomenessreborn.github.io/)
 
 *I code while listening to music, check out what I listen too*
 
